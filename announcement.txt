@@ -1,0 +1,7 @@
+[info] you can show round scoreboard using the chat command: /score round_points
+[info] you can see your rank by score using the chat command: /points
+[info] you can see how many games you won using the chat command: /rank_wins
+[info] list of fng stats commands: /top5points, /multis, /top5spikes gold, /steals, /statsall, /stats
+[info] you can see killing sprees in scoreboard using the chat command: /score current_spree
+[info] you can see someones all time stats using the chat command: /statsall name
+[info] join spectators and use the chat command /team to practice (make sure to also /lock)
