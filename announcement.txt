@@ -5,3 +5,4 @@
 [info] you can see killing sprees in scoreboard using the chat command: /score current_spree
 [info] you can see someones all time stats using the chat command: /statsall name
 [info] join spectators and use the chat command /team to practice (make sure to also /lock)
+[info] join our discord at https://discord.gg/BkExYS7Qs
